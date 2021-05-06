@@ -1,0 +1,2 @@
+# bit-cross
+Miner cripto
